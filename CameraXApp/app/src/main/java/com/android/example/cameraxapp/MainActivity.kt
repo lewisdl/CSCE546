@@ -1,4 +1,4 @@
-package com.example.cameraxapp
+package com.android.example.cameraxapp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

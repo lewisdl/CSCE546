@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.cameraxapp'
+    namespace 'com.android.example.cameraxapp'
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.cameraxapp"
+        applicationId "com.android.example.cameraxapp"
         minSdk 21
         targetSdk 33
         versionCode 1

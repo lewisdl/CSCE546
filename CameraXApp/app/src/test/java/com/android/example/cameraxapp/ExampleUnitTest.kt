@@ -1,4 +1,4 @@
-package com.example.cameraxapp
+package com.android.example.cameraxapp
 
 import org.junit.Test
 
